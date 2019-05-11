@@ -1,0 +1,11 @@
+modificar para mnist con las siguientes arquitecturas
+
+input->[[conv-relu]2->pool]2->FC->FC(20)->FC6
+W=3x3
+filtros yo los escojo
+
+pool 2x2
+
+cambiar 6 por el 10 linea 36
+
+4,4,1
